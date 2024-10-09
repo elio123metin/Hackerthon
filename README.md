@@ -1,5 +1,5 @@
 # Hackerthon
-*punkt 1
+-punkt 1
 *2
 *3
 
